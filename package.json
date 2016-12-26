@@ -1,0 +1,23 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "learn webpack from 'SurvivJS' book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paul-shannon/webpack-demo.git"
+  },
+  "keywords": [webpack, learn],
+  "author": "Paul Shannon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paul-shannon/webpack-demo/issues"
+  },
+  "homepage": "https://github.com/paul-shannon/webpack-demo#readme",
+  "devDependencies": {
+    "webpack": "^2.2.0-rc.2"
+  }
+}
